@@ -1,2 +1,43 @@
 # Predicting-Diabetes-project
-I worked on building an application to predict the likelihood of diabetes using artificial intelligence techniques, specifically deep learning networks. Project details: I trained a model using the PyTorch library on real data from https://www.kaggle.com/.../diabetes-prediction-dataset. The model predicts the likelihood of diabetes based on 21 health and behavioral features. A modern and user-friendly graphical user interface was developed using CustomTkinter. The user can input their data and receive the prediction result directly, with the option to save the data. I used libraries such as pandas and numpy for data analysis, scikit-learn for processing, splitting, and normalization, PyTorch for designing and training the deep model, CustomTkinter for professional user interface development, and pickle and csv for saving the model and data. I also used ChatGPT for: organizing the code and improving its structure, solving some problems. Key features: intelligent processing of some characteristics (amplifying/reducing their impact based on importance), saving user data for later analysis, support for dark and light mode, easy and smooth design for any user.
+🔬 Project Overview:
+
+I developed an AI-based application to predict the likelihood of diabetes using deep learning techniques.
+
+💡 Project Details:
+
+Trained a deep learning model using PyTorch on real-world data from Kaggle’s Diabetes Prediction Dataset
+.
+
+The model predicts the probability of diabetes based on 21 health and behavioral features.
+
+A modern and user-friendly graphical user interface (GUI) was built using CustomTkinter.
+
+Users can input their data and receive instant prediction results, with the ability to save their data for future reference.
+
+🧰 Tools & Libraries Used:
+
+pandas, numpy: for data analysis and preprocessing
+
+scikit-learn: for data splitting, normalization, and other preprocessing tasks
+
+PyTorch: for designing and training the deep learning model
+
+CustomTkinter: for building a professional and modern GUI
+
+pickle, csv: for saving the trained model and user data
+
+ChatGPT was used to:
+
+Organize and refactor code
+
+Solve certain development challenges
+
+⭐ Key Features:
+
+Smart feature handling (e.g., amplifying or reducing the impact of certain features based on importance)
+
+Ability to store user input data for later analysis
+
+Supports light and dark themes
+
+Clean, intuitive design for an enhanced user experience
